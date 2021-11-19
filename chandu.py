@@ -1,1 +1,1 @@
-print("I am Abdul kalam Fan")
+print("I am fan of Abdul kalam sir")
